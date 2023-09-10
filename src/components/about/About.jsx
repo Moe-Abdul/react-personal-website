@@ -23,19 +23,23 @@ const About = () => {
             <article className='about__card'>
               <BiTimeFive className='about__icon' />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years</small>
             </article>
 
             <article className='about__card'>
               <BsAward className='about__icon' />
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <h5>Languages</h5>
+              <small>6 Proficient</small> 
+              <br />
+              <small>4 Familiar</small>
             </article>
 
             <article className='about__card'>
               <AiOutlineLaptop className='about__icon' />
               <h5>Projects</h5>
-              <small>80+ completed</small>
+              <small>24 Academic</small>
+              <br />
+              <small>3 Personal</small>
             </article>
           </div>
 
