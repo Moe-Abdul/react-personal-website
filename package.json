@@ -1,5 +1,6 @@
 {
   "name": "react-personal-website",
+  "homepage": "https://moeabdul.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
