@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-personal-website/static/css/main.3e61fe4f.css",
+    "main.js": "/react-personal-website/static/js/main.28ee6267.js",
+    "static/media/selfieFull.png": "/react-personal-website/static/media/selfieFull.2413572103b60d2d0c49.png",
+    "static/media/secondPhoto.png": "/react-personal-website/static/media/secondPhoto.3f1538803460bf009c76.png",
+    "static/media/resume.pdf": "/react-personal-website/static/media/resume.ef16729b1c78359c12bd.pdf",
+    "index.html": "/react-personal-website/index.html",
+    "main.3e61fe4f.css.map": "/react-personal-website/static/css/main.3e61fe4f.css.map",
+    "main.28ee6267.js.map": "/react-personal-website/static/js/main.28ee6267.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e61fe4f.css",
+    "static/js/main.28ee6267.js"
+  ]
+}
